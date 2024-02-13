@@ -3,6 +3,9 @@
 I'm Shubham Gaware , a Full Stack Java Developer with expertise in Java, Spring Boot, Hibernate, and Django. I'm passionate about creating effective and responsive web applications,Stand Alone application ,
 web page creation , coding and Blog Writing .
 
+![Animated Developer Image](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)
+
+
 ## Technologies
 ### Front End 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
